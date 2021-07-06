@@ -1,0 +1,113 @@
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\WebPruebaAccesoSQL.dll.config
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\WebPruebaAccesoSQL.dll
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\WebPruebaAccesoSQL.pdb
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\csc.exe
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\csc.exe.config
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\csc.rsp
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\csi.exe
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\csi.rsp
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\System.AppContext.dll
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\System.Collections.Immutable.dll
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\System.IO.FileSystem.dll
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\System.Reflection.Metadata.dll
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\vbc.exe
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\vbc.exe.config
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\vbc.rsp
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\VBCSCompiler.exe
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\VBCSCompiler.exe.config
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\ClassMiAccesoSQL.dll
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\ClassMiAccesoSQL.pdb
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\obj\Debug\WebPruebaAccesoSQL.csproj.CoreCompileInputs.cache
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\obj\Debug\WebPruebaAccesoSQL.csproj.CopyComplete
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\obj\Debug\WebPruebaAccesoSQL.dll
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\obj\Debug\WebPruebaAccesoSQL.pdb
+H:\CLASES en LINEA 2021\02 Mayo Agosto\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\obj\Debug\WebPruebaAccesoSQL.csprojAssemblyReference.cache
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\WebPruebaAccesoSQL.dll.config
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\WebPruebaAccesoSQL.dll
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\WebPruebaAccesoSQL.pdb
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\csc.exe
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\csc.exe.config
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\csc.rsp
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\csi.exe
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\csi.rsp
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\System.AppContext.dll
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\System.Collections.Immutable.dll
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\System.IO.FileSystem.dll
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\vbc.exe
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\vbc.exe.config
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\vbc.rsp
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\VBCSCompiler.exe
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\VBCSCompiler.exe.config
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\ClassMiAccesoSQL.dll
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\ClassMiAccesoSQL.pdb
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\obj\Debug\WebPruebaAccesoSQL.csprojAssemblyReference.cache
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\obj\Debug\WebPruebaAccesoSQL.csproj.CoreCompileInputs.cache
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\obj\Debug\WebPruebaAccesoSQL.csproj.CopyComplete
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\obj\Debug\WebPruebaAccesoSQL.dll
+C:\Mayo2021\PruebasSesion\WebPruebaAccesoSQL\WebPruebaAccesoSQL\obj\Debug\WebPruebaAccesoSQL.pdb
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\WebPruebaAccesoSQL.dll.config
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\WebPruebaAccesoSQL.dll
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\WebPruebaAccesoSQL.pdb
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\csc.exe
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\csc.exe.config
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\csc.rsp
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\csi.exe
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\csi.rsp
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\System.AppContext.dll
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\System.Collections.Immutable.dll
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\System.IO.FileSystem.dll
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\System.Reflection.Metadata.dll
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\vbc.exe
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\vbc.exe.config
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\vbc.rsp
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\VBCSCompiler.exe
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\roslyn\VBCSCompiler.exe.config
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\ClassMiAccesoSQL.pdb
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\obj\Debug\WebPruebaAccesoSQL.csprojAssemblyReference.cache
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\obj\Debug\WebPruebaAccesoSQL.csproj.CoreCompileInputs.cache
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\obj\Debug\WebPruebaAccesoSQL.csproj.CopyComplete
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\obj\Debug\WebPruebaAccesoSQL.dll
+C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\obj\Debug\WebPruebaAccesoSQL.pdb
