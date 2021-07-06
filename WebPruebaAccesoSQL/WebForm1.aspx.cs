@@ -283,6 +283,25 @@ namespace WebPruebaAccesoSQL
                      "msgModificacion4", "msgbox3(`Peligro`,`" + mensaje + "`, `error`)", true);
             }
         }
+
+        protected void Button9_Click(object sender, EventArgs e)
+        {
+            string query = "select  * from PRODUCTOS";
+            DataSet caja = null;
+            string h = "";
+            caja = objacc.ConsultaDS(query, objacc.AbrirConexion(ref h),
+                ref h);
+            if(caja!=null)
+            {
+                GridView2.DataSource = caja.Tables[0];
+                GridView2.DataBind();
+            }
+            else
+            {
+                this.ClientScript.RegisterStartupScript(this.GetType(),
+                     "msgModificacion7", "msgbox3(`Peligro`,`" + h + "`, `error`)", true);
+            }
+        }
     }
 }
 
