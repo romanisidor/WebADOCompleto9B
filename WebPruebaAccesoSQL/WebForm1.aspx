@@ -39,9 +39,19 @@
         <asp:Button ID="Button3" runat="server" OnClick="Button3_Click" Text="Consulta DataSet" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <asp:Button ID="Button4" runat="server" OnClick="Button4_Click" Text="Obtener datos del DataSet" Width="311px" />
+        &nbsp;<br />
+        <br />
+        ID buscar:
+        <asp:TextBox ID="txtidbuscar" runat="server"></asp:TextBox>
+&nbsp;&nbsp; Nombre a modificar
+        <asp:TextBox ID="txtnommod" runat="server" Width="242px"></asp:TextBox>
+        <br />
+        <br />
+&nbsp;
+        <asp:Button ID="Button10" runat="server" OnClick="Button10_Click" Text="Modificar datos del DataSet" />
         <asp:GridView ID="GridView1" runat="server">
         </asp:GridView>
-        <br />
+        &nbsp;<br />
         <asp:ListBox ID="ListBox2" runat="server"></asp:ListBox>
         <br />
         <br />
@@ -91,6 +101,8 @@
             <SortedDescendingCellStyle BackColor="#D4DFE1" />
             <SortedDescendingHeaderStyle BackColor="#15524A" />
         </asp:GridView>
+        <br />
+        <asp:Button ID="Button11" runat="server" OnClick="Button11_Click" Text="Ir a operacioes Ticket" Width="315px" />
         <br />
         <br />
         <br />

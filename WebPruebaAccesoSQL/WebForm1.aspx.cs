@@ -302,6 +302,28 @@ namespace WebPruebaAccesoSQL
                      "msgModificacion7", "msgbox3(`Peligro`,`" + h + "`, `error`)", true);
             }
         }
+
+        protected void Button10_Click(object sender, EventArgs e)
+        {
+            DataSet t = Session["Tabla1"] as DataSet;
+            DataTable tabla = t.Tables[0];
+            DataRow ractual = null;
+            int r = 0;
+            
+            for(r=0; r<= tabla.Rows.Count-1;r++)
+            {
+                ractual = tabla.Rows[r];
+                if(ractual["ID_EMPLEADO"].ToString()== txtidbuscar.Text)
+                {
+                    ractual["NOMBRE"] = txtnommod.Text;
+                }
+            }
+        }
+
+        protected void Button11_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("WebForm2.aspx");
+        }
     }
 }
 
