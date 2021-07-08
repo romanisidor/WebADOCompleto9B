@@ -111,3 +111,14 @@ C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\obj\Debug\WebPruebaAccesoSQL.
 C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\obj\Debug\WebPruebaAccesoSQL.csproj.CopyComplete
 C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\obj\Debug\WebPruebaAccesoSQL.dll
 C:\JULIO2021\WebPruebaAccesoSQL\WebPruebaAccesoSQL\obj\Debug\WebPruebaAccesoSQL.pdb
+E:\repos_visualstudio\WebADOCompleto9B\WebPruebaAccesoSQL\bin\WebPruebaAccesoSQL.dll.config
+E:\repos_visualstudio\WebADOCompleto9B\WebPruebaAccesoSQL\bin\WebPruebaAccesoSQL.dll
+E:\repos_visualstudio\WebADOCompleto9B\WebPruebaAccesoSQL\bin\WebPruebaAccesoSQL.pdb
+E:\repos_visualstudio\WebADOCompleto9B\WebPruebaAccesoSQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\repos_visualstudio\WebADOCompleto9B\WebPruebaAccesoSQL\bin\ClassMiAccesoSQL.pdb
+E:\repos_visualstudio\WebADOCompleto9B\WebPruebaAccesoSQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\repos_visualstudio\WebADOCompleto9B\WebPruebaAccesoSQL\obj\Debug\WebPruebaAccesoSQL.csproj.AssemblyReference.cache
+E:\repos_visualstudio\WebADOCompleto9B\WebPruebaAccesoSQL\obj\Debug\WebPruebaAccesoSQL.csproj.CoreCompileInputs.cache
+E:\repos_visualstudio\WebADOCompleto9B\WebPruebaAccesoSQL\obj\Debug\WebPruebaAccesoSQL.csproj.CopyComplete
+E:\repos_visualstudio\WebADOCompleto9B\WebPruebaAccesoSQL\obj\Debug\WebPruebaAccesoSQL.dll
+E:\repos_visualstudio\WebADOCompleto9B\WebPruebaAccesoSQL\obj\Debug\WebPruebaAccesoSQL.pdb
